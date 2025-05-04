@@ -123,12 +123,14 @@ Chinese;English
 走火入魔;qi deviation
 回力盘丝;spring force coiling wire
 试炼弟子;trial disciple
+真传弟子;true disciple
 释气环;Air Ejection Ring
 定颜丹;Appearance Fixation Pill
 霸器国;Artifact Hegemon Kingdom
 青霜城;Azure Frost City
 孙老大;Boss Sun
 安神香;Calming Soul Incense
+楚流云;Chu Liuyun
 城主府;City Lord Mansion
 清浊散;Clear Dust Powder
 穿云手;Cloud Piercing Hand
@@ -162,6 +164,7 @@ Chinese;English
 猴头帮;Monkey Head Gang
 猎妖会;Monster Hunting Association
 泥流门;Mud Flow Gate
+聂雄风;Nie Xiongfeng
 宁小慧;Ning Xiaohui
 宁晓仁;Ning Xiaoren
 宁战机;Ning Zhanji
@@ -370,6 +373,7 @@ Chinese;English
 法衣;magic robe
 法宝;magic treasure
 法力;magical power
+奴婢;maidservant
 主脉;main family
 大派;major faction
 武术;martial arts
@@ -437,6 +441,3 @@ Chinese;English
 斤;jin
 妖;monster
 丈;zhang
-奴婢;maidservant
-楚流云;Chu Liuyun
-聂雄风;Nie Xiongfeng
