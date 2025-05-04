@@ -441,3 +441,5 @@ Chinese;English
 斤;jin
 妖;monster
 丈;zhang
+内门弟子;inner disciple
+外门弟子;outer disciple
