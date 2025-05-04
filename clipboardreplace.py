@@ -3,7 +3,9 @@ import argparse
 from pathlib import Path
 import re
 from chunk import chunk
-import pyperclip
+import clipman as pyperclip
+
+pyperclip.init()
 
 text = pyperclip.paste()
 
