@@ -24,18 +24,21 @@ Chinese;English
 垂髫钓死鞭;Hanging-Hair Hooked Death Whip
 垂髫吊死鞭;Hanging-Hair Hooked Death Whip
 伏矢戮魂枪;Hidden Arrow Soul Slaying Spear
+饿鬼反噬鼎;Hungry Ghost Reverse Devouring Cauldron
 晚秋留命丹;Late Autumn Life Preservation Pill
 神机妙算香;Marvelous Strategy Brilliant Calculation Incense
 镜台通灵诀;Mirror Platform Spirit Communication Incantation
 镜台通灵经;Mirror Platform Spirit Communication Scripture
 运动平衡牀;Motion Equilibrium Frame
 九幽黑死猫;Nine Nethers Black Death Cat
+九泉安息香;Nine Springs Peaceful Rest Incense
 九转噬魂诀;Nine Turns Soul Devouring Incantation
 宁家少族长;Ning Clan Junior Patriarch
 凤魂血香丸;Phoenix Soul Blood Fragrance Pellet
 追根溯源诀;Root Tracking Origin Tracing Incantation
 追根溯源法;Root Tracking Origin Tracing Method
 赤焰妖熔洞;Scarlet Flame Monster Volcanic Cavern
+千六百人魂;Sixteen Hundred Man Soul
 偷香窃玉手;Snatching Fragrance Stealing Jade Hand
 魂里香袅诀;Soulborne Fragrance Incantation
 灵力压缩牀;Spirit Power Compression Frame
@@ -44,6 +47,7 @@ Chinese;English
 三垣交宝符;Three Constellations Intersection Treasure Talisman
 三焦正阳经;Triple Burner Righteous Yang Scripture
 上下如意索;Up-Down As-You-Wish Cables
+金刚护体法;Vajra Body Protection Skill
 养脉护体散;Vein Nourishment Body Protection Powder
 生机静养体;Vitality Convalescense Physique
 虚空错位手;Void Dislocation Hand
@@ -53,6 +57,7 @@ Chinese;English
 准无上宗师;quasi-supreme grandmaster
 屠夫鬼将;Butcher Ghost General
 火柿城主;City Lord
+赤发鬼将;Crimson Hair Ghost General
 丹田生辉;Dantian Birthing Radiance
 龙鼋火灵;Dragon Turtle Fire Spirit
 邪神骨髓;Evil God Bone Marrow
@@ -61,11 +66,14 @@ Chinese;English
 火眼金睛;Fiery Eyes, Golden Pupils
 火柿仙城;Fire Persimmon Immortal City
 五行神主;Five Elements Divine Lord
+花生鬼将;Flower Life Ghost General
 绝命飞钩;Flying Death Hook
 飞盘工坊;Flying Disk Workshop
 飞盘工坊;Flying Disk Workshop
 怒火心猿;Furious Heart Ape
 焚心火毒;Furious Heart Fire Poison
+金血战猿;Golden Blood Battle Ape
+吊死鬼将;Hanged Ghost General
 穿心洞见;Heart-Piercing Insight
 重装血猿;Heavy Armor Blood Ape
 藏阳别府;Hidden Yang Residence
@@ -78,13 +86,18 @@ Chinese;English
 多嘴鬼将;Many Mouths Ghost General
 镜妆鬼将;Mirror Makeup Ghost General
 火融魔猿;Molten Flame Demonic Ape
+幽命魂花;Nether Fate Soul Flower
 幽冥心经;Netherworld Heart Sutra
 宁家族长;Ning Clan Patriarch
+无声鬼将;Noiseless Ghost General
+不声不响;Noiseless Soundless
 宝药滋生;Nourishing the Treasure Medicine
+忘川地府;Oblivion River Underworld Prefecture
 凤魂血香;Phoenix Soul Blood Fragrance
 紫阳别院;Purple Sun Villa
 义骨金坚;Righteous Bone Golden Hardness
 壮阳别府;Robust Yang Residence
+赤金玄铁;Scarlet Gold Profound Iron
 迷魂大法;Soul-Enchanting Grand Magic
 南豆仙朝;Southern Bean Immortal Dynasty
 南豆仙国;Southern Bean Immortal Kingdom
@@ -93,6 +106,7 @@ Chinese;English
 三宗上人;Three Schools Supreme Sage
 三宗上法;Three Schools Supreme Skills
 绿刀螳螂;Verdant Blade Mantis
+朱火琉璃;Vermilion Fire Glass
 白骨鳄魔;White Bone Crocodile Demon
 白纸城主;White Paper City Lord
 白纸仙城;White Paper Immortal City
@@ -111,6 +125,7 @@ Chinese;English
 背负双手;hands behind his back
 天材地宝;heavenly materials and earthly treasures
 修真百艺;hundred arts of cultivation
+内门弟子;inner disciple
 功夫人偶;kung fu puppet
 熔岩魔头;lava demon
 大师境界;master attainment
@@ -120,6 +135,7 @@ Chinese;English
 机关工坊;mechanical workshop
 机关台座;mechanism pedestal
 微型阵法;micro-formation
+外门弟子;outer disciple
 走火入魔;qi deviation
 回力盘丝;spring force coiling wire
 试炼弟子;trial disciple
@@ -128,6 +144,7 @@ Chinese;English
 定颜丹;Appearance Fixation Pill
 霸器国;Artifact Hegemon Kingdom
 青霜城;Azure Frost City
+黑水山;Blackwater Mountain
 孙老大;Boss Sun
 安神香;Calming Soul Incense
 楚流云;Chu Liuyun
@@ -135,6 +152,7 @@ Chinese;English
 清浊散;Clear Dust Powder
 穿云手;Cloud Piercing Hand
 寒霜侯;Cold Frost Marquis
+阡陌灯;Crossways Lantern
 冥蛟河;Dark Flood-Dragon River
 神捕司;Divine Investigation Bureau
 朱神捕;Divine Investigator Zhu
@@ -155,6 +173,7 @@ Chinese;English
 钓死鞭;Hooked Death Whip
 花千魂;Hua Qianhun
 抱冰术;Icy Embrace Art
+仙灵木;Immortal Spirit Wood
 孔日月;Kong Riyue
 熔岩宫;Lava Immortal Palace
 肝脏庙;Liver Organ Temple
@@ -164,11 +183,13 @@ Chinese;English
 猴头帮;Monkey Head Gang
 猎妖会;Monster Hunting Association
 泥流门;Mud Flow Gate
+万象宗;Myriad Manifestations Sect
 聂雄风;Nie Xiongfeng
 宁小慧;Ning Xiaohui
 宁晓仁;Ning Xiaoren
 宁战机;Ning Zhanji
 北风国;Northern Wind Kingdom
+忘川府;Oblivion River Prefecture
 一股气;One Gust of Air
 归元丹;Origin Returning Pill
 魅影门;Phantom Gate
@@ -178,6 +199,9 @@ Chinese;English
 紫阳炉;Purple Sun Furnace
 还魂丹;Resurrection Pill
 壮阳院;Robust Yang Courtyard
+一号房;Room 1
+二号房;Room 2
+三号房;Room 3
 赤焰妖;Scarlet Flame Monster
 七巧手;Seven Skillful Hand
 七星灯;Seven Star Lamp
@@ -195,7 +219,11 @@ Chinese;English
 孙灵瞳;Sun Lingtong
 日月钩;Sun-Moon Hooks
 传法钟;Technique Transmission Bell
-气数论;Theory of Counted Breaths
+万人魂;Ten Thousand Man Soul
+气数论;Theory of Numbered Breaths
+千人魂;Thousand Man Soul
+铁骨铮;Tie Guzheng
+朱炎石;Vermilion Flame Stone
 飞游手;Wandering Flight Hand
 温养丹;Warm Recovery Pill
 警心铃;Warning Heart Bell
@@ -257,9 +285,11 @@ Chinese;English
 臭肺;Foul Lung
 筑基;Foundation Establishment
 帮主;Gang Leader
+鬼将;Ghost General
 金丹;Golden Core
 金睛;Golden Pupils
 韩冥;Han Ming
+天鬼;Heaven Ghost
 伏矢;Hidden Arrow
 仙资;Immortal Talent
 天资;Innate Talent
@@ -279,12 +309,15 @@ Chinese;English
 宁责;Ning Ze
 宁忠;Ning Zhong
 宁拙;Ning Zhuo
+无声;Noiseless
 非毒;Non-Poisonous
+忘川;Oblivion River
 陈老;Old Chen
 孙老;Old Sun
 炼气;Qi Refining
 青掩;Qing Yan
 大人;Sir
+炼神;Soul Refining
 南豆;Southern Bean
 雀阴;Sparrow Yin
 灵瞳;Spirit Eyes
@@ -292,6 +325,7 @@ Chinese;English
 吞贼;Swallowing Thief
 天霜;Tian Shuang
 猴叔;Uncle Monkey
+金刚;Vajra
 炼虚;Void Refining
 王兰;Wang Lan
 白纸;White Paper
@@ -339,6 +373,7 @@ Chinese;English
 精宫;essence palace
 精海;essence sea
 气数;fate energy
+机缘;fated opportunity
 女修;female cultivator
 火行;fire element
 火精;fire essence
@@ -350,6 +385,7 @@ Chinese;English
 阵盘;formation disk
 阵眼;formation eye
 阵柱;formation pillar
+气运;fortune energy
 底蕴;foundation
 鬼术;ghost art
 鬼修;ghost cultivator
@@ -357,6 +393,7 @@ Chinese;English
 大阵;grand formation
 宗师;grandmaster
 大宗;great sect
+吊死;hanged ghost
 邪派;heterodox sect
 上等;high-grade
 仙城;immortal city
@@ -416,6 +453,8 @@ Chinese;English
 灵力;spirit power
 灵根;spirit root
 灵石;spirit stone
+灵宝;spirit treasure
+灵性;spirituality
 超等;super-grade
 剑修;sword cultivator
 符箓;talisman
@@ -430,7 +469,9 @@ Chinese;English
 宝光;treasure light
 宝药;treasure medicine
 宝印;treasure seal
+真传;true disciple
 劲参;vigor ginseng
+虚空;void space
 战堂;war hall
 木行;wood element
 阴风;yin wind
@@ -441,5 +482,3 @@ Chinese;English
 斤;jin
 妖;monster
 丈;zhang
-内门弟子;inner disciple
-外门弟子;outer disciple
