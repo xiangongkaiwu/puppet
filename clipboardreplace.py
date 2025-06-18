@@ -17,7 +17,7 @@ with open("glossary.txt","r") as g:
     text = text.replace("\r\n\r\n","\n")
     #text = text.replace("：","&&")
 
-chunks = chunk(text, 3000)
+chunks = chunk(text, 5000)
 
 text = "\n====================================\n\n====================================\n\n====================================\n".join(chunks)
 

@@ -6,8 +6,8 @@ import time
 scraper = cloudscraper.create_scraper()
 url = 'https://cn.wa01.com/novel/pagea/xiangongkaiwu-guzhenren_$.html'
 
-start = 1
-end = 571
+start = 617
+end = 627
 
 for i in range(start, end):
     chapter = scraper.get(url.replace('$',str(i))).text
